@@ -21,8 +21,10 @@ yarn dev
 To start the Unit testing with cypress you can run:
 
 ```bash
-npm run cypress and check E2E testing
+npm run cypress
 
 ```
+
+Check E2E testing
 
 # nextjs-with-unit-testing

@@ -25,6 +25,6 @@ npm run cypress
 
 ```
 
-Check E2E testing
+After that you have two choices please Check E2E testing
 
 # nextjs-with-unit-testing
